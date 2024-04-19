@@ -1,0 +1,709 @@
+@media(min-width:50px) and (max-width:300px){
+    body {
+        background: rgba(68,32,10,255);
+    }
+    #header{
+        width: 160vh;
+        justify-content: space-between;
+        
+    }
+    
+   #Whatsapp{
+    margin-left: 5px;
+     width: 370px;
+     
+    
+    
+   }
+
+    #logo img{
+        width: 270px;
+    }
+    
+    #Contato{
+        height: 120px;  
+        width: 100%;
+       
+    }
+    .fa-whatsapp{
+        font-size: 55px;
+    }
+    .fale{
+        font-size: 47px;
+    }
+    #btn-olaclick{
+        
+        font-size: 45px;
+      
+        height: 120px;  
+        width: 93%;
+       
+      
+      
+        
+    }
+    #container-destaque{
+        display: block;
+       
+    }
+    #title{
+       
+        width: 160vh;
+        
+    }
+    #title img{
+        width: 100%;
+    }
+    #image_title{
+       display: none;
+        overflow: visible;
+        height: 95%;
+        width: 220vh;
+    }
+   
+    footer {
+        margin-top: 350%;
+        
+       width: 160vh;
+        
+        font-size: 65px;
+    }
+}
+
+
+
+
+
+
+
+
+@media(min-width: 360px) and (max-width: 374px) {
+  
+    body {
+        background: rgba(68,32,10,255);
+    }
+        
+    
+
+    #header{
+        width: 197vh;
+        justify-content: space-between;
+        
+    }
+    
+   #Whatsapp{
+    margin-left: 5px;
+     width: 400px;
+     
+    
+    
+   }
+
+    #logo img{
+        width: 400px;
+    }
+    
+    #Contato{
+        height: 130px;  
+        width: 100%;
+       
+    }
+    .fa-whatsapp{
+        font-size: 70px;
+    }
+    .fale{
+        font-size: 50px;
+    }
+    #btn-olaclick{
+        
+        font-size: 50px;
+      
+        height: 130px;  
+        width: 90%;
+       
+      
+      
+        
+    }
+    #container-destaque{
+        display: block;
+       
+    }
+    #title{
+       
+        width: 197vh;
+        
+    }
+    #title img{
+        width: 100%;
+    }
+    #image_title{
+       display: none;
+        overflow: visible;
+        height: 95%;
+        width: 220vh;
+    }
+   
+    footer {
+        margin-top: 300%;
+        height: 50%;
+       width: 197vh;
+        
+        font-size: 65px;
+    }
+}
+
+
+
+
+
+
+
+
+@media (min-width: 374px ) and ( max-width: 375px){
+    
+
+
+    body {
+        background: rgba(68,32,10,255);
+    }
+        
+    
+
+    #header{
+        width: 220vh;
+        justify-content: space-between;
+        
+    }
+    
+   #Whatsapp{
+    margin-left: 5px;
+     width: 400px;
+     
+    
+    
+   }
+
+    #logo img{
+        width: 400px;
+    }
+    
+    #Contato{
+        height: 130px;  
+        width: 100%;
+       
+    }
+    .fa-whatsapp{
+        font-size: 60px;
+    }
+    .fale{
+        font-size: 50px;
+    }
+    #btn-olaclick{
+        
+        font-size: 50px;
+      
+        height: 130px;  
+        width: 90%;
+       
+      
+      
+        
+    }
+    #container-destaque{
+        display: block;
+       
+    }
+    #title{
+       
+        width: 220vh;
+        
+    }
+    #title img{
+        width: 100%;
+    }
+    #image_title{
+       display: none;
+        overflow: visible;
+        height: 95%;
+        width: 220vh;
+    }
+   
+    footer {
+        margin-top: 910px;
+       height: 800px;
+        width: 220vh;
+        
+        font-size: 75px;
+    }
+}
+@media(min-width:376px) and (max-width: 539px){
+    
+    body {
+        background: rgba(68,32,10,255);
+    }
+    #logo img{
+        width: 400px;
+    }
+    
+    
+    #header{
+        width: 180vh;
+        justify-content: space-between;
+        
+    }
+    
+   #Whatsapp{
+    margin-left: 5px;
+     width: 500px;
+    
+    
+    
+   }
+
+
+    
+    #Contato{
+        height: 130px;  
+        width: 100%;
+       
+    }
+    .fa-whatsapp{
+        font-size: 75px;
+    }
+    .fale{
+        font-size: 57px;
+    }
+    #btn-olaclick{
+        
+        font-size: 60px;
+      
+        height: 170px;  
+        width: 97%;
+       
+      
+      
+        
+    }
+    #container-destaque{
+        display: block;
+       
+       
+    }
+    #title{
+        height: 300vh;
+        width: 180vh;
+        
+        
+    }
+    #title img{
+        width: 100%;
+        margin-top: 30vh;
+    }
+    #image_title{
+       display: none;
+        overflow: visible;
+        height: 95%;
+        width: 180vh;
+    }
+   
+    footer {
+        margin-top: 600%;
+       
+       width: 180vh;
+        
+        font-size: 75px;
+    }
+}
+
+
+@media(min-width:376px) and (max-width: 539px){
+    
+    body {
+        background: rgba(68,32,10,255);
+    }
+    #logo img{
+        width: 400px;
+    }
+    
+    
+    #header{
+        width: 180vh;
+        justify-content: space-between;
+        
+    }
+    
+   #Whatsapp{
+    margin-left: 5px;
+     width: 500px;
+    
+    
+    
+   }
+
+
+    
+    #Contato{
+        height: 100px;  
+        width: 100%;
+       
+    }
+    .fa-whatsapp{
+        font-size: 75px;
+    }
+    .fale{
+        font-size: 57px;
+    }
+    #btn-olaclick{
+        
+        font-size: 60px;
+      
+        height: 170px;  
+        width: 97%;
+       
+      
+      
+        
+    }
+    #container-destaque{
+        display: block;
+       
+       
+    }
+    #title{
+        height: 300vh;
+        width: 180vh;
+        
+        
+    }
+    #title img{
+        width: 100%;
+        margin-top: 30vh;
+    }
+    #image_title{
+       display: none;
+        overflow: visible;
+        height: 95%;
+        width: 180vh;
+    }
+   
+    footer {
+        margin-top: 600%;
+       
+       width: 180vh;
+        
+        font-size: 75px;
+    }
+}
+@media(min-width: 540px) and (max-width: 719px){
+    #header{
+        width: 95vh;
+       
+    }
+    #Whatsapp{
+        margin-left: 2px;
+         width: 175px;
+    }  
+    #Contato{
+        height: 70px;  
+        width: 125%;
+       
+    }
+    .fa-whatsapp{
+        font-size: 37px;
+    }
+    .fale{
+        font-size: 27px;
+    }
+    #btn-olaclick{
+        
+        font-size: 25px;
+      
+        height: 70px;  
+        width: 200px;
+        
+       }
+    #container-destaque{
+        display: block;
+}
+#title{
+     height: 80%;
+    
+    }
+
+#image_title{
+    display: block;
+     overflow: visible;
+     height: 95%;
+     width: 95vh;
+ }
+ footer {
+    margin-top: 135%;
+    width: 95vh;
+  font-size: 27px;
+}
+}
+@media(min-width: 720px) and (max-width:767px){
+    #header{
+        width: 95vh;
+       
+    }
+    #Whatsapp{
+        margin-left: 2px;
+         width: 175px;
+    }  
+    #Contato{
+        height: 70px;  
+        width: 125%;
+       
+    }
+    .fa-whatsapp{
+        font-size: 37px;
+    }
+    .fale{
+        font-size: 27px;
+    }
+    #btn-olaclick{
+        
+        font-size: 25px;
+      
+        height: 70px;  
+        width: 200px;
+        
+       }
+    #container-destaque{
+        display: block;
+}
+#title{
+     height: 80%;
+    width: 97vh;
+    }
+
+#image_title{
+    display: block;
+     overflow: visible;
+     height: 95%;
+     width: 97vh;
+ }
+ footer {
+    margin-top: 125%;
+    width: 95vh;
+  font-size: 27px;
+}
+}
+@media (min-width: 768px) and (max-width: 819px) {
+    
+    
+    #header{
+        width: 80vh;
+       
+    }
+    #logo img{
+        width: 220px;
+    }
+    #Whatsapp{
+        margin-left: 2px;
+         width: 200px;
+    }  
+    #Contato{
+        height: 70px;  
+        width: 125%;
+       
+    }
+    .fa-whatsapp{
+        font-size: 37px;
+    }
+    .fale{
+        font-size: 27px;
+    }
+    #btn-olaclick{
+        
+        font-size: 25px;
+      
+        height: 70px;  
+        width: 200px;
+        
+       }
+
+    #container-destaque{
+        display: block;
+}
+#title{
+    width: 80vh;
+    
+   height: 100%;
+    
+    
+}
+#image_title{
+    display: block;
+     overflow: visible;
+     height: 95%;
+     width: 80vh;
+ }
+
+footer {
+    margin-top: 135%;
+   
+    width: 80vh;
+    
+    
+    font-size: 36px;
+}
+}
+@media (min-width:820px) and (max-width: 1023px) {
+    body {
+        background: rgba(68,32,10,255);
+    }
+    
+   
+    #header{
+        width: 68vh;
+       
+    }
+    #logo img{
+        width: 220px;
+    } 
+    
+    #Whatsapp{
+        margin-left: 2px;
+         width: 200px;
+    }  
+    #Contato{
+        height: 70px;  
+        width: 125%;
+       
+    }
+    .fa-whatsapp{
+        font-size: 37px;
+    }
+    .fale{
+        font-size: 27px;
+    }
+    #btn-olaclick{
+        
+        font-size: 25px;
+      
+        height: 70px;  
+        width: 200px;
+        
+       }
+
+    #container-destaque{
+        display: block;
+}
+#title{
+    width: 68vh;
+   height: 100%;
+    
+    
+}
+#image_title{
+    display: block;
+     overflow: visible;
+     height: 95%;
+     width: 68vh;
+     
+ }
+
+footer {
+    margin-top: 127%;
+    
+    width: 68vh;
+    height: 50%;
+    font-size: 36px;
+}
+}
+@media(min-width: 1024px) and (max-width:1279px) and (orientation: portrait) {
+    
+    
+    
+    #header{
+        width: 72vh;
+      
+    }
+    #Whatsapp{
+        margin-left: 2px;
+         width: 200px;
+    }  
+    #Contato{
+        height: 90px;  
+        width: 125%;
+       
+    }
+    .fa-whatsapp{
+        font-size: 40px;
+    }
+    .fale{
+        font-size: 30px;
+    }
+    #btn-olaclick{
+        
+        font-size: 30px;
+      
+        height: 90px;  
+        width: 200px;
+        
+       }
+
+    #container-destaque{
+        display: block;
+}
+#title{
+    width: 74vh;
+   height: 100%;
+    
+    
+}
+#image_title{
+    
+     overflow: visible;
+     height: 95%;
+     width: 74vh;
+ }
+
+footer {
+    margin-top: 125%;
+   
+   width: 74vh;
+    
+    font-size: 36px;
+}
+}
+@media(min-width: 1024px) and (max-width:1279px) and (orientation: landscape) {
+    #header{
+        width: 215vh;
+      
+    }
+    #Whatsapp{
+        margin-left: 30%;
+        width: 20%;
+    }  
+    #Contato{
+        height: 70px;  
+        width: 100%;
+       
+    }
+    .fa-whatsapp{
+        font-size: 35px;
+    }
+    .fale{
+        font-size: 30px;
+    }
+    #btn-olaclick{
+        
+        font-size: 30px;
+      
+        height: 80px;  
+        width: 180px;
+        
+       }
+       footer {
+        
+        font-size: 30px;
+        width: 215vh;
+    }
+}
+
+
+    

@@ -1,0 +1,147 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: rgba(68,32,10,255);
+}
+
+#header{
+    display: flex;
+    background-color: rgba(68,32,10,255);
+    align-items: center;
+    justify-content: space-between ;
+    width: 100%;
+    
+}
+
+#logo img{
+    width: 170px;
+    
+
+}
+
+
+#Whatsapp{
+    
+    margin-left: 50%;
+    width: 20%;
+   
+    }
+.fa-whatsapp{
+    color: #fefefe;
+    font-size: 30px;
+    margin-right: 5px;
+    
+}
+ 
+.fale{
+    font-size: 20px;
+    font-style: normal;
+    font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.fale a{
+    text-decoration: none;
+    color: #fefefe;
+}
+
+ 
+#Contato{
+    color: #fefefe;
+    text-decoration: none;
+    border-style: none;
+    border-radius: 15px;
+    background-color: rgba(13,193,67,254);
+    width: 90%;
+    height: 55px;
+   
+}
+
+#Contato img{
+width: 60px;
+margin-right: 90px;
+}
+#Pedido{
+   
+   margin-right: 17px;
+}
+
+
+#btn-olaclick{
+    text-decoration: none;
+    border-style: none;
+    width: 200px;
+    height: 55px;
+    background-color: rgba(228,185,94,255);
+    font-size: 20px;
+    border-radius: 15px;
+    font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  
+   
+    
+}
+#btn-olaclick a{
+    text-decoration: none;
+    color: black;
+}
+#container-destaque{
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    height: 600px;
+}
+
+#title{
+    width: 683px;
+    overflow: hidden;
+      
+}
+#title img{
+    width: 100%;
+
+}
+
+
+
+#image_title{
+    width: 620px;
+    overflow: hidden;
+    
+    
+}
+
+#image_title img{
+    width: 100%;
+
+}
+footer {
+    margin-top: 1px;
+    background-color: rgba(68,32,10,255);
+    padding: 20px 0;
+    color: #fefefe;
+    font-family: Arial, sans-serif;
+}
+
+/* Container do footer */
+.footer-container {
+    
+    align-items: center;
+}
+.direitos{
+    color: #fefefe;
+}
+
+
+
+
+
+
+/* Rodapé inferior com direitos autorais */
+.footer-bottom {
+    margin-top: 20px;
+    text-align: center;
+    color: #666;
+}

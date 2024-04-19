@@ -1,0 +1,53 @@
+@media(max-width:700px){
+    #header{
+        width: 952px;
+    }
+    #logo img{
+        width: 200px;
+    }
+    #Whatsapp{
+        
+        margin-left: 10px;
+        width: 900px;
+    }
+  #Contato{
+    height: 75px;
+    width: 220px;
+    margin-left: 275px;
+  }
+    .fa-whatsapp{
+        font-size: 35px;
+    }
+    .fale{
+        font-size: 25px;
+
+    }
+    #btn-olaclick{
+        width: 195px;
+        font-size: 25px;
+        height: 60%;
+    }
+    #container-destaque{
+     display: block;
+
+    }
+    #title{
+        
+        height: 95% ;
+        width: 254%;
+    }
+    #title img{
+        width: 100%;
+    }
+   
+   #image_title{
+    border: 2px solid blue;
+   }
+   #image_title img {
+    width: 99%;
+    
+   }
+   footer {
+    margin-top: 900px;
+   }
+}
